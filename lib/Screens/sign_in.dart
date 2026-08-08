@@ -50,7 +50,7 @@ class _SignInPageState extends State<SignInPage> {
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                      
+                    Text('data'),
                     Row(
                       children: [
                         TextButton(
